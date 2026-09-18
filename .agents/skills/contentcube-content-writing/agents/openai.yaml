@@ -1,0 +1,7 @@
+interface:
+  display_name: "콘텐츠큐브 콘텐츠 작성"
+  short_description: "콘텐츠큐브 블로그 초안과 검수 제안을 만듭니다."
+  default_prompt: "Use $contentcube-content-writing to help me write a ContentCube blog post."
+
+policy:
+  allow_implicit_invocation: true
